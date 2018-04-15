@@ -1,0 +1,5 @@
+﻿Nú færðu stuttar vísbendingar fyrir orðin fjögur.
+1: Loðið dýr sem býr í hitabelti (Fleirtala)
+2: Langur og mjór hlutur (Eintala)
+3: Tegund af tónlist (Eintala)
+4: Tegund af bakkelsi (Eintala)
