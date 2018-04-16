@@ -195,7 +195,7 @@ class Herbergi(HansogGretaSp2):
 
     def problem3(self):
         time.sleep(2.5)
-        tilraun = 5
+        tilraunir = 5
         print('-------')
         print('ÞRAUT 3')
         print('-------')
